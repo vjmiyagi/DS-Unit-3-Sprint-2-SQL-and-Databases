@@ -1,0 +1,9 @@
+#
+# MONGO DB CREDENTIALS:
+#
+
+MONGO_USER = "admim"
+MONGO_PASS = "s32tPAwqxbYhEdqN"
+MONGO_CLUSTER = "cluster0.ncyvv"
+
+
